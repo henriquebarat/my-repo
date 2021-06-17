@@ -20,7 +20,7 @@ export function RepositoryList() {
 
     return (
         <section className="repository-list">
-            <h1>Meus repositórios</h1>
+            <h1>Meus Repositórios</h1>
 
             <ul>
                  {repositories.map(repository => {
